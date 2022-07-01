@@ -1,7 +1,31 @@
-h1{
-  background-color: red;
+body{
+  font-family: 'Antonio';
+  margin: 0;
+}
+
+#overview{
   color: white;
 }
-h2{
-  color: lime;
+.sub-title{
+  color: #2ddf5c;
+  font-family: inherit;
+  font-weight: bold;
+}
+
+#overview div h1{
+  font-family: inherit;
+  font-weight: bolder;
+}
+
+.p{
+  font-weight: 100;
+}
+
+.first-title{
+  background-color: #ff1b68;
+  padding: 20px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black;
+  margin: 0;
 }
